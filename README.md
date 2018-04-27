@@ -69,7 +69,7 @@ Box | Pyramid | Tetrahedron | Triangular Prism
 <p align="center"><img src="/readme/glanceat.gif" width="400px"/></p>
 
 ## About
-+ Released day: 26/05/2017
++ Release date: 26/05/2017
 + JPaint Team:
    - Lương Ngọc Quý (Team Leader)
    - Lý Quang Huy
