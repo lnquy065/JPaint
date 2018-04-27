@@ -2,6 +2,8 @@
 <p align="center"><img src="/readme/jpaint.jpg" width="400px"/></p>
 A Java project using Graphics library and algorithms to create/edit images. JPaint supports work with layers, 6 Basic tools, 8+ 2D Shapes, 4 3D Shapes and 13 Transformations. If you need a simple photo editing software but powerful, JPaint is one of the best choices.
 
+#### Download at https://github.com/lnquy065/JPaint/tree/master/dist
+
 ## Features
 ### Tools:
   - Selector: Select drawed shape to edit.
@@ -65,3 +67,10 @@ Box | Pyramid | Tetrahedron | Triangular Prism
   
 <p align="center"><img src="/readme/color.gif" width="150px"/><img src="/readme/layers.gif"  width="150px"/></p>
 <p align="center"><img src="/readme/glanceat.gif" width="400px"/></p>
+
+## About
++ Released day: 26/05/2017
++ JPaint Team:
+   - Lương Ngọc Quý (Team Leader)
+   - Lý Quang Huy
+   - Lê Nguyễn Chánh Tín
