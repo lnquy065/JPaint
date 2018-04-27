@@ -1,30 +1,36 @@
 # JPaint
+<p align="center"><img src="/readme/jpaint.jpg" width="400px"/></p>
+A Java project using Graphics library and algorithms to create/edit images. JPaint supports work with layers, 6 Basic tools, 8+ 2D Shapes, 4 3D Shapes and 13 Transformations. If you need a __simple__ photo editing software but __powerful__, JPaint is one of the best choices.
 
-A project using Graphics2D and algorithms to edit image. JPaint supports layers, 6 Basic tools, 8+ 2D Shapes, 4 3D Shapes and 13 Transformations. 
-
-# Features
-+ Tools:
+## Features
+### Tools:
   - Selector: Select drawed shape to edit.
   - Pencil: Draw like pencil.
-  - Brush: Draw as a block which can choose size from 1-100
+  - Brush: Draw as a block which can choose size from 1-100.
   - Color picker: Pick a color from image.
   - Bucket: Using FloodFill algorithm that moded to running on 4 threads.
   - Eraser: Can choose size from 1-100.
-+ 2D:
-  - Line: DDA algorithm
-  - Square: DDA algorithm
-  - Ellipse: Midpoint algorithm
-  - Trapezoid: DDA algorithm
-  - Triangle: DDA algorithm
-  - Parallelogram: DDA algorithm
-  - Diamond: DDA algorithm
-  - Polygons: Support from 3 to 10 edges
- + 3D:
-  - Box:
-  - Pyramid:
-  - Tetrahedron:
-  - Triangular Prism:
-+ Transformations:
+<p align="center">
+  <img src="/readme/pencil.gif" width="150px">
+  <img src="/readme/brush.gif" width="150px">
+  <img src="/readme/fill.gif" width="150px">
+  <img src="/readme/eraser.gif" width="150px">
+</p>
+
+### 2D shapes:
+
+Line | Rectangle | Ellipse | Trapezoid | Triangle | Parallelogram | Diamond | Polygons
+-----|-----------|---------|-----------|----------|---------------|---------|----------
+<img src="/readme/line.gif" width="150px"> | <img src="/readme/rect.gif" width="150px"> |  <img src="/readme/circle.gif" width="150px">|<img src="/readme/trap.gif" width="150px"> | <img src="/readme/triangle.gif" width="150px"> | <img src="/readme/para.gif" width="150px"> | <img src="/readme/diamond.gif" width="150px"> | <img src="/readme/polygons.gif" width="150px">
+
+  
+### 3D shapes:
+
+Box | Pyramid | Tetrahedron | Triangular Prism
+-|-|-|-
+<img src="/readme/box.gif" width="150px"> | <img src="/readme/pyramid.gif" width="150px"> | <img src="/readme/pyramid2.gif" width="150px"> | <img src="/readme/prism.gif" width="150px">
+
+### Transformations:
   - 2D:
     - Move.
     - Resize.
@@ -34,13 +40,16 @@ A project using Graphics2D and algorithms to edit image. JPaint supports layers,
     - Flip Horizontal/Vertial.
     - Point Symmetry.
     - Line Symmetry.
+    
+<p align="center"><img src="/readme/transforms.gif" width="300px"/><img src="/readme/symmetry.gif"  width="300px"/></p>
+    
   - 3D:
     - Move.
     - Rotate on Ox, Oy, Oz.
     - Point Symmetry at O point.
     - Line Symmetry at Ox, Oy, Oz.
     - Plane Symmetry at Oxy, Ozy, Oxz.
-+ Other:
+### Other:
   - Show Grid/Oxy.
   - Guideline.
   - Show informations when drawing shape (Width, Heigh, Position, ...)
@@ -49,4 +58,7 @@ A project using Graphics2D and algorithms to edit image. JPaint supports layers,
   - Change size of line/style of stroke for each shape.
   - Convert shape to pixel.
   - Select/Delete shape.
-  - Layers: Add, Remove, Move up, Move down, Merge down, Show/Hide
+  - Layers: Add, Remove, Move up, Move down, Merge down, Show/Hide.
+  
+<p align="center"><img src="/readme/color.gif" width="150px"/><img src="/readme/layers.gif"  width="150px"/></p>
+<p align="center"><img src="/readme/glanceat.gif" width="400px"/></p>
