@@ -1,7 +1,8 @@
 # JPaint
-A project using Graphics2D and algorithms to edit image. Supported 6 Basic tools,  
 
-Features:
+A project using Graphics2D and algorithms to edit image. JPaint supports layers, 6 Basic tools, 8+ 2D Shapes, 4 3D Shapes and 13 Transformations. 
+
+# Features
 + Tools:
   - Selector: Select drawed shape to edit.
   - Pencil: Draw like pencil.
@@ -33,7 +34,7 @@ Features:
     - Flip Horizontal/Vertial.
     - Point Symmetry.
     - Line Symmetry.
-   - 3D:
+  - 3D:
     - Move.
     - Rotate on Ox, Oy, Oz.
     - Point Symmetry at O point.
