@@ -1,6 +1,6 @@
 # JPaint
 <p align="center"><img src="/readme/jpaint.jpg" width="400px"/></p>
-A Java project using Graphics library and algorithms to create/edit images. JPaint supports work with layers, 6 Basic tools, 8+ 2D Shapes, 4 3D Shapes and 13 Transformations. If you need a __simple__ photo editing software but __powerful__, JPaint is one of the best choices.
+A Java project using Graphics library and algorithms to create/edit images. JPaint supports work with layers, 6 Basic tools, 8+ 2D Shapes, 4 3D Shapes and 13 Transformations. If you need a simple photo editing software but powerful, JPaint is one of the best choices.
 
 ## Features
 ### Tools:
@@ -49,6 +49,9 @@ Box | Pyramid | Tetrahedron | Triangular Prism
     - Point Symmetry at O point.
     - Line Symmetry at Ox, Oy, Oz.
     - Plane Symmetry at Oxy, Ozy, Oxz.
+    
+ <p align="center"><img src="/readme/3dtrans.gif" width="400px"/></p>
+    
 ### Other:
   - Show Grid/Oxy.
   - Guideline.
