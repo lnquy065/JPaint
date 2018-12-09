@@ -71,6 +71,6 @@ Box | Pyramid | Tetrahedron | Triangular Prism
 ## About
 + Release date: 26/05/2017
 + JPaint Team:
-   - Lương Ngọc Quý (Team Leader)
+   - Lương Ngọc Quý
    - Lý Quang Huy
    - Lê Nguyễn Chánh Tín
